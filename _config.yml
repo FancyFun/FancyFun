@@ -4,15 +4,15 @@
 title: Jordan's Website
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Things I do with graphs
 
 # Your name to show in the footer
-author: Some Person
+author: Jordan Hensiek
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "I like graphing"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
